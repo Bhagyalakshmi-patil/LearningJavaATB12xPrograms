@@ -1,6 +1,6 @@
 package ex_27_Collection_Framework;
 
-import java.util.ArrayList;
+import java.util.ArrayList; // we can use java.util.* also
 import java.util.Iterator;
 import java.util.List;
 
@@ -38,3 +38,4 @@ public class Lab228_ArrayList {
         }
     }
 }
+
