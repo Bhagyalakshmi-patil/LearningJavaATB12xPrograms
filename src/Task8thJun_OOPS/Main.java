@@ -13,7 +13,5 @@ public class Main {
         Employee emp2 = new Employee("Charlie", 35, 100000.00,"Manager");
         emp2.displayInfo();
         System.out.println("Bonus: " + emp2.calculateBonus());
-
-
     }
 }
